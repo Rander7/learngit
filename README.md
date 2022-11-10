@@ -1,2 +1,2 @@
-# Git_test
+# learning git
 learning git
