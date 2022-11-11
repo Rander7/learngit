@@ -10,3 +10,5 @@ test3merge
 test4bug
 testthebug
 test the merge
+test the --no-ff merge
+
