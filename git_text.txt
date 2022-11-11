@@ -9,4 +9,5 @@ final test1&2
 test3merge
 test4bug
 testthebug
-test the merge 
+test the merge
+test the --no-ff merge
